@@ -1,0 +1,3 @@
+Hello, Machine Learning!
+
+My name is Star and this is my first GitHub repository for ITAI 1371.
